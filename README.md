@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Aurélien Souville
+- 🧑🏻‍💻 DevOps at Enreach SP
+- 🖥️ Linux / Windows 
+
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript, python, java, html, css
-- 🖥️ Linux / Windows 
-- 🧑🏻‍💻 DevOps at Enreach SP
+
 - 💞️ I’m looking to collaborate on web developpment 
 - 📫 How to reach me : souvilleaurelien@gmail.com
 - 🇫🇷 / 🇬🇧 speaking 
